@@ -1,6 +1,7 @@
+![logo](https://i.imgur.com/nT89svp.png)
 # Clientele
 
-*(noun) cli·en·tele |  \ ,klī-ən-ˈtel \  |  All clients collectively.*
+*(noun) cli·en·tele |  \ ,klī-ən-ˈtel \  |  Clients Collectively.*
 
 Personally I was unsatisfied with clientside modpacks for Fabric/Quilt and wanted to integrate some of the best mods into one nice pack.
 
@@ -17,4 +18,4 @@ Introducing a modpack for the fabric/quilt clientele bundling several major mods
 - Lots More+
 
 ### [!] Download 
-Check out the **#Releases for the **CurseForge Pack** and **PolyMC** *(Auto-Updating)* **Instance**. 
+Check out the [**Releases**](https://github.com/utsur0/clientele/releases) for the **CurseForge Pack** and **PolyMC** *(Auto-Updating)* **Instance**. 
