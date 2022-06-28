@@ -3,9 +3,9 @@
 
 *(noun) cli·en·tele |  \ ,klī-ən-ˈtel \  |  Clients Collectively.*
 
-Personally I was unsatisfied with clientside modpacks for Fabric/Quilt and wanted to integrate some of the best mods into one nice pack.
+Personally I was unsatisfied with clientside modpacks for Fabric/Quilt and wanted to integrate some of the best mods into one pack.
 
-Introducing a modpack for the fabric/quilt clientele bundling several major mods together bringing QoL improvements in performance, functionality, and visuals.
+Introducing a **clientside modpack** for the fabric/quilt clientele bundling several major mods together bringing QoL improvements in performance, functionality, and visuals.
 
 ### [!] Features
 
