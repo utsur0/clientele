@@ -5,17 +5,27 @@
 
 Personally I was unsatisfied with clientside modpacks for Fabric/Quilt and wanted to integrate some of the best mods into one pack.
 
-Introducing a **clientside modpack** for the fabric/quilt clientele bundling several major mods together bringing QoL improvements in performance, functionality, and visuals.
+Introducing a **clientside modpack** for the fabric/quilt clientele bundling 90+ mods together bringing QoL improvements in performance, functionality, and visuals. 
+
+## 1.19 | ![icon](https://i.imgur.com/fqoLqnn.png) Compatible | Sodium | BetterGUI+ | No Chat Reports | VanillaTweaks | Much More
+
+### [!] Download 
+Check [**Releases**](https://github.com/utsur0/clientele/releases) for the [**PolyMC**](https://polymc.org/download/) *(Auto-Updating)* **Instance** and for the [**CurseForge**](https://thumbs.gfycat.com/VapidIllBonobo-max-1mb.gif) **Pack**! 
 
 ### [!] Features
-
 - Features over 90 Mods!
 - Blocks 1.19 Chat Reports
 - Most Performance Mods
 - Bug Fixes + AntiGhosting
 - Xaero's Minimap
 - Vanilla Tweaks + Optional Addons
-- Lots More+
+- Etc. _(will post full list soon!)_
 
-### [!] Download 
-Check out the [**Releases**](https://github.com/utsur0/clientele/releases) for the **CurseForge Pack** and **PolyMC** *(Auto-Updating)* **Instance**. 
+### [!] Adding/Removing/Editing Mods (packwiz)
+
+#### Easy 5 Steps:
+1. [Sign-In](https://github.com/login) to Github. *Yes, I know, blame packwiz.*
+2. Navigate [here](https://github.com/packwiz/packwiz/actions/workflows/go.yml), click the top post, then look for your OS executable.
+3. Read packwiz [wiki](https://packwiz.infra.link/tutorials/creating/getting-started/), or dont and use `packwiz` to see help.
+4. Clone this Git Repo.
+5. To "build" run `packwiz cursforge export`.
