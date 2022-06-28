@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CREDITS.md"
-hash = "17eb626062358e7f0d709a083310c7dd9749861c10d01cdbbbc379c07a651b00"
+file = "README.md"
+hash = "6920463f1bdb711c5142858efa55cad5ac65eb03a2c7880c119638411f5a5fef"
 
 [[files]]
 file = "config/citresewn.json"
@@ -853,6 +853,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "bdd6836216af0ecba546d073141d38552180d49d6ea8b0e203bd7f62537d5666"
 metafile = true
+
+[[files]]
+file = "motivate.txt"
+hash = "17eb626062358e7f0d709a083310c7dd9749861c10d01cdbbbc379c07a651b00"
 
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
