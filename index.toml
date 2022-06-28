@@ -210,11 +210,11 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "f7b0c123136382a1189373f0337095d109f6c8032fecca7ac7d26d898a062a0e"
+hash = "f986d0bc69ce23ffe933a2f4619e885e8f98fe49fdc16f71a9c0100aa59e81e2"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "78657f79d9749b6aca664faac7cc4843fd2839d136cb30c2c235e215713787af"
+hash = "adcfc4ebed40cbf8a9fae9faafb90914a0b2e110e63f35f69cebbd069875a5d5"
 
 [[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
