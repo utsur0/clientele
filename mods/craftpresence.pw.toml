@@ -1,0 +1,13 @@
+name = "CraftPresence"
+filename = "CraftPresence-Fabric-1.19-Release-1.8.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b852a1e72ec18a92e6067bd593d92997bde8069a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821066
+project-id = 297038

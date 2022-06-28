@@ -1,0 +1,13 @@
+name = "Simply No Shading"
+filename = "simply-no-shading-5.0.0-snapshot.8+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27f07b4b5480269939988305905fb43b98d63756"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3843517
+project-id = 550997

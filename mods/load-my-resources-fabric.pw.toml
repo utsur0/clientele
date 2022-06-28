@@ -1,0 +1,8 @@
+name = "Load My Resources"
+filename = "loadmyresources_fabric_1.0.1_MC_1.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3821/647/loadmyresources_fabric_1.0.1_MC_1.19.jar?api-key=267C6CA3"
+hash-format = "sha1"
+hash = "cc234875ae5c8050cdf10539551d8ac5d6d00f4b"

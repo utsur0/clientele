@@ -1,0 +1,13 @@
+name = "Inventory Control Tweaks"
+filename = "inventory-control-tweaks-1.3.15+MC1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5942bfb7ec42aa9684d07fbcdac98cea7a1174e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3844708
+project-id = 421375

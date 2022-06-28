@@ -1,0 +1,13 @@
+name = "Blinking Skin Port"
+filename = "blinkingskinport-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "687311f96c012ea0577c135c0424549c5fe39157"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837177
+project-id = 316170

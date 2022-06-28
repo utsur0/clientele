@@ -1,0 +1,12 @@
+name = "Drippy Loading Screen"
+filename = "drippyloadingscreen_fabric_1.6.4_MC_1.19.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3837/790/drippyloadingscreen_fabric_1.6.4_MC_1.19.jar?api-key=267C6CA3"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1e00588c5604d43e7c4b36f81856dd5e42da15fcdbd61d5da7a3c5285beca128"
+

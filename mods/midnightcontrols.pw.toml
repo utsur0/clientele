@@ -1,0 +1,13 @@
+name = "MidnightControls"
+filename = "midnightcontrols-1.2.1+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "336ef22d02aa803403a4e845d148692fe438e859"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3847857
+project-id = 621768

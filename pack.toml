@@ -1,0 +1,12 @@
+name = "Clientele"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cb54c7945fe35d8d7fda25b68f9cb3ab5da9bdac8049d7fe8fbadf5a78fd6b14"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"

@@ -1,0 +1,8 @@
+name = "Fastload"
+filename = "Fastload-1.1.4+1.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3837/225/Fastload-1.1.4+1.19.jar?api-key=267C6CA3"
+hash-format = "sha1"
+hash = "81953f44c055c373f28a7f5a59a29151cbdd230f"

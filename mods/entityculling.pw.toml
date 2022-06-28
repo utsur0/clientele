@@ -1,0 +1,8 @@
+name = "Entity Culling Fabric"
+filename = "entityculling-fabric-1.5.2-mc1.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3823/508/entityculling-fabric-1.5.2-mc1.19.jar?api-key=267C6CA3"
+hash-format = "sha1"
+hash = "ff5520d7b10342358575220d88bd39c8cea80dad"

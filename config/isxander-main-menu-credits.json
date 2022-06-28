@@ -1,0 +1,22 @@
+{
+  "main_menu": {
+    "bottom_right": [
+      {
+        "text": "Clientele v1.0",
+        "color": "lime_green",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        }
+      }
+    ]
+  },
+  "pause_menu": {
+    "bottom_right": [
+      {
+        "translate": "isxander-main-menu-credits.antighost",
+        "color": "dark_gray"
+      }
+    ]
+  }
+}

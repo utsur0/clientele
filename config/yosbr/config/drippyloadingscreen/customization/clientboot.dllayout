@@ -1,0 +1,55 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = img/boot.png
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  path = img/mojang.png
+  orientation = mid-centered
+  x = 0
+  width = 350
+  action = addtexture
+  actionid = 541b4e59-1ef5-4242-8c2f-a307a32472291656347571980
+  y = 0
+  height = 100
+}
+
+customization {
+  orientation = bottom-centered
+  basecolor = #ffffff
+  shadow = true
+  rotation = 0.0
+  x = 0
+  actionid = abaf3f40-4512-4d1a-9123-2372a7fc2a671656348363673
+  action = addsplash
+  y = -14
+  scale = 0.8
+  refresh = false
+  text = Bill Gates wants YOUR chat logs!
+  bouncing = true
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 5
+  textcolor = #ffffff
+  action = addtext
+  actionid = ae0dc171-3061-460c-b84d-2c264171e59c1656348491376
+  y = -6
+  scale = 1.0
+  alignment = left
+  value = 1.19
+}
+
