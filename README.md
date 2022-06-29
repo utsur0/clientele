@@ -7,7 +7,7 @@ Personally I was unsatisfied with clientside modpacks for Fabric/Quilt and wante
 
 Introducing a **clientside modpack** for the fabric/quilt clientele bundling 90+ mods together bringing QoL improvements in performance, functionality, and visuals. 
 
-## ![icon](https://i.imgur.com/fqoLqnn.png) Compatible | Sodium | BetterGUI+ | No Chat Reports | VanillaTweaks | More
+## ![icon](https://i.imgur.com/fqoLqnn.png) Compatible | Sodium | BetterGUI+ | No Chat Reports | VanillaTweaks | +
 
 ### [!] Download 
 Check [**Releases**](https://github.com/utsur0/clientele/releases) for the [**PolyMC**](https://polymc.org/download/) *(Auto-Updating)* **Instance** and for the [**CurseForge**](https://thumbs.gfycat.com/VapidIllBonobo-max-1mb.gif) **Pack**! 
