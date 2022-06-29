@@ -1,5 +1,5 @@
 ![logo](https://i.imgur.com/nT89svp.png)
-# Clientele 1.19
+# Clientele
 
 *(noun) cli·en·tele |  \ ,klī-ən-ˈtel \  |  Clients Collectively.*
 
