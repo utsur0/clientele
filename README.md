@@ -5,7 +5,7 @@
 
 Personally unsatisfied with clientside modpacks for Fabric/Quilt, so I integrated some of the best into one pack.
 
-Introducing a modpack for all fabric/quilt clientele bundling over 90+ mods bringing QoL improvements in Performance, Functionality, and Visuals. 
+Introducing a modpack for fabric/quilt clientele bundling over 90+ mods bringing QoL improvements in Performance, Functionality, and Visuals. 
 
 ## ![icon](https://i.imgur.com/fqoLqnn.png) Compatible | Sodium | BetterGUI+ | No Chat Reports | VanillaTweaks | +
 
